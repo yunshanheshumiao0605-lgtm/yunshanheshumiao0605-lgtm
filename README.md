@@ -3,11 +3,11 @@
 **把好奇的念头，做成日常的小作品。**
 
 我是 **Ellen**，心理学背景的连续创业者、多年在大厂从事人才与组织工作。  
-也是心理咨询师，还是一个喜欢阅读和旅行的潜水员。  
+也是一个喜欢阅读和旅行的潜水员。  
 想在有限的时间里，多看看世界，多试试人生的各种可能性。  
 
 I'm **Ellen**, a serial entrepreneur with a background in psychology and years of experience in talent and organizational development at major tech companies.  
-I'm also a counselor and a diver who loves reading and traveling.  
+I'm also a diver who loves reading and traveling.  
 I want to make the most of the time I have—to see more of the world and explore life's many possibilities.
 
 ---
