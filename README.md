@@ -2,13 +2,17 @@
 
 **把好奇的念头，做成日常的小作品。**
 
-我是 **Ellen**，心理学背景的连续创业者、多年在大厂从事人才与组织工作。  
-也是一个喜欢阅读和旅行的潜水员。  
-想在有限的时间里，多看看世界，多试试人生的各种可能性。  
+我是 **Ellen**，心理学背景的连续创业者，也是一名喜欢阅读和旅行的潜水员。
 
-I'm **Ellen**, a serial entrepreneur with a background in psychology and years of experience in talent and organizational development at major tech companies.  
-I'm also a diver who loves reading and traveling.  
-I want to make the most of the time I have—to see more of the world and explore life's many possibilities.
+做了多年人才与组织工作，现在想带着好奇，探索人生的更多可能。这里会分享我用 AI 做的小工具、学习中的新发现，以及把念头慢慢变成作品的过程。
+
+欢迎来我的好奇心实验室坐坐，一起学点新东西、做点有意思的事，在有限的时间里，多看看这个世界。
+
+I'm **Ellen**, a serial entrepreneur with a background in psychology, and a diver who loves reading and traveling.
+
+After years in talent and organizational development, I'm exploring what life could hold next. Here I share small tools I build with AI, things I learn, and the process of turning ideas into something real.
+
+Welcome to my curiosity lab. Let's learn something new, make something useful or simply fun, and see more of the world with the time we have.
 
 ---
 
